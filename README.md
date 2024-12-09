@@ -4,10 +4,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Darker Gif" width="400">
 </div>
-<h3 align="center">🚀 Java Developer | ☁️ Networking Enthusiast | 🔒 Cybersecurity Explorer</h3>
+<h3 align="center"> ☁️ DevOps Engineer | 🔒 MERN Developer | 🚀 Machine Learning Enthusiast</h3>
 
-<h3 align="center">A software developer from India</h3>
-<p align = "Center">Highly motivated Software Developer with a degree in computer engineering from a prestigious institution in India. Equipped with strong logical reasoning, I am driven by results and committed to continuous learning. My goal is to leverage my theoretical knowledge and practical skills to contribute to cutting-edge projects and collaborate with experienced professionals. My ability to follow and learn trending standards of the industry, coupled with perseverance and problem-solving proficiency, enables me to adapt quickly and excel in dynamic work environments. I would love to secure an instrumental role in the tech industry, driven by a passion for learning and a commitment to adopting emerging technologies. My disciplined determination, combined with creativity, ensures I make efficient and impactful contributions to the company.</p>
+<p align = "Center"></p>
 
 <br><br>
 
