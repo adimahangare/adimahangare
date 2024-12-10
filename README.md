@@ -2,8 +2,8 @@
 <!--MasterHead-->
 <a href="https://github.com/adimahangare/adimahangare">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Slide1.PNG">
-    <img alt="Andrew Grant's GitHub Profile README" src="Slide2.PNG">
+    <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
+    <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
   </picture>
 </a>
 
