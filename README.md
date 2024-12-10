@@ -1,6 +1,12 @@
 
 <!--MasterHead-->
-<h1 align="center">Hi 👋, I'm Adinath Mahangare</h1>
+<a href="https://github.com/adimahangare/adimahangare">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Slide1.PNG">
+    <img alt="Andrew Grant's GitHub Profile README" src="Slide2.PNG">
+  </picture>
+</a>
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Darker Gif" width="400">
 </div>
